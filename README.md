@@ -159,14 +159,14 @@ This is a demo and should not be treated as a security product.
 - Unit tests for `analyze()` with a labelled message set
 - Report-to-authority guidance (e.g. India's cybercrime reporting portal and the 1930 helpline)
 
----
+## Team
+Team name: SKILL ISSUES
 
-## If you think you've been scammed
 
-Contact your bank immediately using the number printed on your card or on its official website, and report the incident to the national cybercrime portal (cybercrime.gov.in) or the 1930 helpline in India.
+Sanika Somani
 
----
+Sharanya Sindgi
 
-## License
+Satyam Gusain
 
-No license has been specified yet. Add one (for example MIT) before sharing or accepting contributions.
+Sharan Desai
